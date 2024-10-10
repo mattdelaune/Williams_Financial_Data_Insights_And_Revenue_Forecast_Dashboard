@@ -1,0 +1,92 @@
+Year,Metric Name,Value,Category
+2017,Total Revenue,$0.04,Revenue
+2017,Depreciation and Amortization Expenses,$1.24,Expense
+2017,Interest Expense,($0.41),Expense
+2017,Net Income Loss,$1.13,Profit/Loss
+2017,YoY Revenue Growth,$0.32,Growth/Revenue
+2017,YoY Net Income Growth,$0.62,Growth/Profit
+2017,Depreciation Percent Revenue,$1.24,Expense
+2017,Interest Expense Percent Revenue,($0.41),Expense
+2017,Revenue Lag 1,($2.45),Revenue
+2017,Net Income Lag 1,($2.12),Profit/Loss
+2017,3 Year Revenue Rolling Average,$0.41,Revenue
+2017,Profit Margin Lag 1,($2.11),Profit Margin
+2018,Total Revenue,$0.04,Revenue
+2018,Depreciation and Amortization Expenses,($0.86),Expense
+2018,Interest Expense,($0.41),Expense
+2018,Net Income Loss,$1.13,Profit/Loss
+2018,YoY Revenue Growth,$0.32,Growth/Revenue
+2018,YoY Net Income Growth,$0.62,Growth/Profit
+2018,Depreciation Percent Revenue,($0.86),Expense
+2018,Interest Expense Percent Revenue,($0.41),Expense
+2018,Revenue Lag 1,$0.40,Revenue
+2018,Net Income Lag 1,$0.89,Profit/Loss
+2018,3 Year Revenue Rolling Average,($2.45),Revenue
+2018,Profit Margin Lag 1,$0.90,Profit Margin
+2019,Total Revenue,$0.04,Revenue
+2019,Depreciation and Amortization Expenses,($0.86),Expense
+2019,Interest Expense,($0.41),Expense
+2019,Net Income Loss,$1.13,Profit/Loss
+2019,YoY Revenue Growth,$0.32,Growth/Revenue
+2019,YoY Net Income Growth,$0.62,Growth/Profit
+2019,Depreciation Percent Revenue,($0.86),Expense
+2019,Interest Expense Percent Revenue,($0.41),Expense
+2019,Revenue Lag 1,$0.40,Revenue
+2019,Net Income Lag 1,$0.89,Profit/Loss
+2019,3 Year Revenue Rolling Average,$0.40,Revenue
+2019,Profit Margin Lag 1,$0.90,Profit Margin
+2020,Total Revenue,$0.74,Revenue
+2020,Depreciation and Amortization Expenses,$1.19,Expense
+2020,Interest Expense,($0.41),Expense
+2020,Net Income Loss,($0.70),Profit/Loss
+2020,YoY Revenue Growth,$0.80,Growth/Revenue
+2020,YoY Net Income Growth,($1.89),Growth/Profit
+2020,Depreciation Percent Revenue,$1.17,Expense
+2020,Interest Expense Percent Revenue,($0.41),Expense
+2020,Revenue Lag 1,$0.40,Revenue
+2020,Net Income Lag 1,$0.89,Profit/Loss
+2020,3 Year Revenue Rolling Average,$0.41,Revenue
+2020,Profit Margin Lag 1,$0.90,Profit Margin
+2021,Total Revenue,$0.74,Revenue
+2021,Depreciation and Amortization Expenses,($0.86),Expense
+2021,Interest Expense,$2.45,Expense
+2021,Net Income Loss,($0.70),Profit/Loss
+2021,YoY Revenue Growth,$0.32,Growth/Revenue
+2021,YoY Net Income Growth,$0.62,Growth/Profit
+2021,Depreciation Percent Revenue,($0.86),Expense
+2021,Interest Expense Percent Revenue,$2.45,Expense
+2021,Revenue Lag 1,$0.42,Revenue
+2021,Net Income Lag 1,($0.19),Profit/Loss
+2021,3 Year Revenue Rolling Average,$0.43,Revenue
+2021,Profit Margin Lag 1,($0.19),Profit Margin
+2022,Total Revenue,$0.74,Revenue
+2022,Depreciation and Amortization Expenses,($0.86),Expense
+2022,Interest Expense,($0.41),Expense
+2022,Net Income Loss,($0.70),Profit/Loss
+2022,YoY Revenue Growth,$0.32,Growth/Revenue
+2022,YoY Net Income Growth,$0.62,Growth/Profit
+2022,Depreciation Percent Revenue,($0.86),Expense
+2022,Interest Expense Percent Revenue,($0.41),Expense
+2022,Revenue Lag 1,$0.42,Revenue
+2022,Net Income Lag 1,($0.19),Profit/Loss
+2022,3 Year Revenue Rolling Average,$0.44,Revenue
+2022,Profit Margin Lag 1,($0.19),Profit Margin
+2023,Total Revenue,($2.32),Revenue
+2023,Depreciation and Amortization Expenses,$1.02,Expense
+2023,Interest Expense,($0.41),Expense
+2023,Net Income Loss,($1.30),Profit/Loss
+2023,YoY Revenue Growth,($2.42),Growth/Revenue
+2023,YoY Net Income Growth,($1.22),Growth/Profit
+2023,Depreciation Percent Revenue,$1.06,Expense
+2023,Interest Expense Percent Revenue,($0.41),Expense
+2023,Revenue Lag 1,$0.42,Revenue
+2023,Net Income Lag 1,($0.19),Profit/Loss
+2023,3 Year Revenue Rolling Average,$0.36,Revenue
+2023,Profit Margin Lag 1,($0.19),Profit Margin
+2024,Total Revenue,$0.04,$X Predicted
+2025,Total Revenue,$0.04,$X Predicted
+2026,Total Revenue,$0.04,$X Predicted
+2027,Total Revenue,$0.74,$X Predicted
+2028,Total Revenue,$0.74,$X Predicted
+2029,Total Revenue,$0.74,$X Predicted
+2030,Total Revenue,($2.32),$X Predicted
